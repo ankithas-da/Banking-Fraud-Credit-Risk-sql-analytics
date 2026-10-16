@@ -10,9 +10,9 @@ An end-to-end analytics project on a **synthetic** retail credit card portfolio:
 
 | Page | Power BI | Tableau |
 |---|---|---|
-| Fraud Overview / Timing & Concentration | ![Power BI fraud overview](dashboards/images/powerbi-fraud-overview.png) | ![Tableau fraud timing](dashboards/images/tableau-fraud-timing.png) |
-| Credit Risk & Collections | ![Power BI credit risk](dashboards/images/powerbi-credit-risk.png) | ![Tableau credit risk](dashboards/images/tableau-credit-risk.png) |
-| Portfolio & Strategy | ![Power BI portfolio](dashboards/images/powerbi-portfolio.png) | ![Tableau portfolio](dashboards/images/tableau-portfolio.png) |
+| Fraud Overview / Timing & Concentration | ![Power BI fraud overview](FRAUD%20OVERVIEW%20-%20POWERBI%20DASHBOARD.png) | ![Tableau fraud timing](FRAUD%20TIMING%20%26%20CONCENTRATION%20-%20TABLEAU%20DASHBOARD.png) |
+| Credit Risk & Collections | ![Power BI credit risk](CREDIT%20RISK%20%26%20COLLECTIONS%20-%20POWERBI%20DASHBOARD.png) | ![Tableau credit risk](CREDIT%20RISK%20%26%20COLLECTIONS%20-%20TABLEAU%20DASHBOARD.png) |
+| Portfolio & Strategy | ![Power BI portfolio](PORTFOLIO%20%26%20STRATEGIES%20-%20POWERBI%20DASHBOARD.png) | ![Tableau portfolio](PORTFOLIO%20%26%20STRATEGIES%20-%20TABLEAU%20DASHBOARD.png) |
 
 **Interactive Tableau dashboards:** [Tableau Public link](https://public.tableau.com/) *(replace with your published workbook link)*
 
